@@ -1,0 +1,21 @@
+/* custom css */
+
+body  {
+  background-image: url("./img/money-currency-cash-banknote.jpg");
+}
+
+/* general */
+h1, h3, p, button {
+  text-align: center;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+/* Selector section */
+.SelectorSection {
+  background-color: black;
+  color: white;
+}
+
+.SelectorButtonsContainer {
+  display: flex;
+}

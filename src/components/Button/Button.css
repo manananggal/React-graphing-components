@@ -1,0 +1,13 @@
+.Button {
+  flex-grow: 1;
+  background: transparent;
+  color: yellowgreen;
+  padding: 10px;
+  transition: background 1s ease-in-out;
+}
+
+.Button:hover {
+  background: teal;
+  box-shadow: inset 0 0 10px #000000;
+  font-weight: bolder;
+}
